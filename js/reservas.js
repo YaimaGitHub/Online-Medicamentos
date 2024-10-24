@@ -15,7 +15,7 @@
     resp.classList.remove("send");
 
     let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
-          *_AURA_*%0A
+          *_Cabrera's Shop_*%0A
           *Reservas*%0A%0A
           *¿Cuál es tu nombre?*%0A
             ${cliente}%0A

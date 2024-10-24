@@ -29,7 +29,7 @@ contenido += `<div class='col-md-6 bg-light p-3'>
 </ul>
 </div>
 <div class='col-md-12 text-center p-5'>
-<a href="https://api.whatsapp.com/send?phone=${telefono}&text=" ><button class='btn btn-dark'>Finalizar Compra</button></a>
+<a href="https://www.mercadopago.com.ar/home" ><button class='btn btn-dark'>Finalizar Compra</button></a>
 </div>`;
 resumen_compra.innerHTML = contenido;
 

@@ -25,7 +25,7 @@
             ${hora}%0A
           *Empleado de preferencia*%0A
             ${empleado}%0A
-          *¿Cuál es el servicio que se desea realizar?*%0A
+          *¿Cuál es el producto que desea reservar?*%0A
             ${servicio}`;
     
     if (cliente === "" || fecha === "" || hora === "") {

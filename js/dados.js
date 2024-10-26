@@ -95,80 +95,80 @@ var MENU = {
         },
         {
             "id": "shake-shack-shackburger-8-pack",
-            "img": "./img/cardapio/burguers/shake-shack-shackburger-8-pack.973a5e26836ea86d7e86a327becea2b0.jpg",
-            "name": "Shake Shack",
+            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
+            "name": "Ciprofloxacino",
             "dsc": "Shake Shack ShackBurger® - 8 Pack",
-            "price": 49
+            "price": 400
         },
         {
             "id": "gotts-cheeseburger-kit-for-4",
-            "img": "./img/cardapio/burguers/gotts-complete-cheeseburger-kit-for-4.7bdc74104b193427b3fe6eae39e05b5e.jpg",
-            "name": "Gott's Roadside",
+            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
+            "name": "Cefalexina",
             "dsc": "Gott's Complete Cheeseburger Kit for 4",
-            "price": 99
+            "price": 720
         },
         {
             "id": "le-big-matt-kit-for-6",
-            "img": "./img/cardapio/burguers/le-big-matt-kit-for-6.1ddae6e382bb3218eeb0fd5247de115a.jpg",
-            "name": "Emmy Squared",
+            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
+            "name": "Sulfaprim",
             "dsc": "Le Big Matt Burger Kit for 6",
-            "price": 99
+            "price": 320
         },
         {
             "id": "shake-shack-shackburger-16-pack",
-            "img": "./img/cardapio/burguers/shake-shack-shackburger-16-pack.316f8b09144db65931ea29e34869287a.jpg",
-            "name": "Shake Shack",
+            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
+            "name": "Azitromicina",
             "dsc": "Shake Shack Shackburger® - 16 Pack",
-            "price": 89
+            "price": 720
         },
         {
             "id": "21-usda-prime-burgers-pack-of-18-8oz-each",
-            "img": "./img/cardapio/burguers/usda-prime-burgers-pack-of-18-8oz-each.274c67f15aa1c0b210dbf51801706670.jpg",
-            "name": "Peter Luger Steak House",
+            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
+            "name": "Metronidazol (500mg)",
             "dsc": "USDA Prime Burgers - Pack of 18 (8oz each)",
-            "price": 175.95
+            "price": 300
         },
         {
             "id": "double-stack-burger-kit-for-4",
-            "img": "./img/cardapio/burguers/handf-double-stack-burger-kit-for-4.4ee9f54b1d6087e9996335f07c13e5cd.jpg",
-            "name": "Holeman & Finch",
+            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
+            "name": "Albendazol (400mg)",
             "dsc": "Double Stack Burger Kit for 4",
-            "price": 79
+            "price": 360
         },
         {
             "id": "goldbelly-burger-bash-pack",
-            "img": "./img/cardapio/burguers/the-burger-bash-package.bd9d12d031865940bbe5faf15f1a62f8.jpg",
-            "name": "Pat LaFrieda Meats",
+            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
+            "name": "Secnidazol",
             "dsc": "Goldbelly \"Burger Bash\" Pack",
-            "price": 109
+            "price": 360
         },
         {
             "id": "burger-au-poivre-kit-4-pack",
-            "img": "./img/cardapio/burguers/burger-au-poivre-kit-4-pack.3ca0e39b02db753304cd185638dad518.jpg",
-            "name": "Raoul's",
+            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
+            "name": "Nistatina (Suspención)",
             "dsc": "Burger Au Poivre Kit - 4 Pack",
-            "price": 99
+            "price": 900
         },
         {
             "id": "goldbelly-burger-blend-4-lbs",
-            "img": "./img/cardapio/burguers/goldbelly-burger-blend-1-lb.13a21b66edf7173a59c75c3a6d2f981b.jpg",
-            "name": "Flannery Beef",
+            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
+            "name": "Mebendazol",
             "dsc": "Goldbelly Burger Blend - 4 lbs.",
-            "price": 79
+            "price": 240
         },
         {
             "id": "gotts-complete-cheeseburger-kit-for-8",
-            "img": "./img/cardapio/burguers/gotts-complete-cheeseburger-kit-for-8.092aa049d00286fa1733d720decc782e.jpg",
-            "name": "Gott's Roadside",
+            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
+            "name": "Amoxicilina (suspención)",
             "dsc": "Gott's Complete Cheeseburger Kit for 8",
-            "price": 149
+            "price": 800
         },
         {
             "id": "gramercy-tavern-burger-kielbasa-combo",
-            "img": "./img/cardapio/burguers/Gramercy-Tavern-Burger-and-Kielbasa-Kit-6.4.21-72ppi-1x1-47.jpg",
-            "name": "Pollo",
+            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
+            "name": "Diclofenaco + Paracetamol",
             "dsc": "Pollo",
-            "price": 149
+            "price": 300
         }
     ],
     "sobremesas": [

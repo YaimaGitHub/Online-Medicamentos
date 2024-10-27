@@ -88,87 +88,171 @@ var MENU = {
     "burgers": [
         {
             "id": "the-gramercy-tavern-burger-4-pack",
-            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
+            "img": "./img/cardapio/burguers/amoxicilina.jpg",
             "name": "Amoxicilina",
             "dsc": "The Gramercy Tavern Burger - 4 Pack",
-            "price": 400
+            "price": 300
         },
         {
             "id": "shake-shack-shackburger-8-pack",
-            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
+            "img": "./img/cardapio/burguers/CIPROFLOXACINO-500-MG.jpg",
             "name": "Ciprofloxacino",
             "dsc": "Shake Shack ShackBurger® - 8 Pack",
-            "price": 400
+            "price": 300
         },
         {
             "id": "gotts-cheeseburger-kit-for-4",
-            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
+            "img": "./img/cardapio/burguers/Cefalexina.jpg",
             "name": "Cefalexina",
             "dsc": "Gott's Complete Cheeseburger Kit for 4",
-            "price": 720
+            "price": 460
         },
         {
             "id": "le-big-matt-kit-for-6",
-            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
+            "img": "./img/cardapio/burguers/sulfaprim.jpg",
             "name": "Sulfaprim",
             "dsc": "Le Big Matt Burger Kit for 6",
-            "price": 320
+            "price": 260
         },
         {
             "id": "shake-shack-shackburger-16-pack",
-            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
-            "name": "Azitromicina",
+            "img": "./img/cardapio/burguers/doxiciclina.jpg",
+            "name": "Doxiciclina",
             "dsc": "Shake Shack Shackburger® - 16 Pack",
-            "price": 720
+            "price": 300
         },
         {
             "id": "21-usda-prime-burgers-pack-of-18-8oz-each",
-            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
-            "name": "Metronidazol (500mg)",
+            "img": "./img/cardapio/burguers/lasante_azitromicina_tabletas.png",
+            "name": "Azitromicina",
             "dsc": "USDA Prime Burgers - Pack of 18 (8oz each)",
-            "price": 300
+            "price": 460
         },
         {
             "id": "double-stack-burger-kit-for-4",
-            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
-            "name": "Albendazol (400mg)",
+            "img": "./img/cardapio/burguers/METRONIDAZOL-500MG.jpg",
+            "name": "Metronidazol (400mg)",
             "dsc": "Double Stack Burger Kit for 4",
-            "price": 360
+            "price": 250
         },
         {
             "id": "goldbelly-burger-bash-pack",
-            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
-            "name": "Secnidazol",
+            "img": "./img/cardapio/burguers/albendazol.jpg",
+            "name": "Albendazol (400mg)",
             "dsc": "Goldbelly \"Burger Bash\" Pack",
-            "price": 360
+            "price": 280
         },
         {
             "id": "burger-au-poivre-kit-4-pack",
-            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
-            "name": "Nistatina (Suspención)",
+            "img": "./img/cardapio/burguers/Secnidazol.png",
+            "name": "Cecnidazol",
             "dsc": "Burger Au Poivre Kit - 4 Pack",
-            "price": 900
+            "price": 280
         },
         {
             "id": "goldbelly-burger-blend-4-lbs",
-            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
+            "img": "./img/cardapio/burguers/mebendazol.jpg",
             "name": "Mebendazol",
             "dsc": "Goldbelly Burger Blend - 4 lbs.",
-            "price": 240
+            "price": 220
         },
         {
             "id": "gotts-complete-cheeseburger-kit-for-8",
-            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
+            "img": "./img/cardapio/burguers/amoxicilina suspención.jpg",
             "name": "Amoxicilina (suspención)",
             "dsc": "Gott's Complete Cheeseburger Kit for 8",
-            "price": 800
+            "price": 600
         },
         {
             "id": "gramercy-tavern-burger-kielbasa-combo",
-            "img": "./img/cardapio/burguers/pexels-cottonbro-10610417.jpg",
-            "name": "Diclofenaco + Paracetamol",
+            "img": "./img/cardapio/burguers/nistatina-suspension.jpg",
+            "name": "Nistatina (suspención)",
             "dsc": "Pollo",
+            "price": 700
+        },
+        {
+            "id": "kit-for",
+            "img": "./img/cardapio/burguers/Diclofenaco + Paracetamol.jpg",
+            "name": "Diclofenaco + Paracetamol",
+            "dsc": "Kit for",
+            "price": 250
+        },
+        {
+            "id": "pack",
+            "img": "./img/cardapio/burguers/Prednisolona.jpg",
+            "name": "Prednisolona",
+            "dsc": "pack",
             "price": 300
+        },
+        {
+            "id": "123",
+            "img": "./img/cardapio/burguers/Ciproheptadina.jpg",
+            "name": "Ciproheptadina",
+            "dsc": "123",
+            "price": 210
+        },
+        {
+            "id": "Kit",
+            "img": "./img/cardapio/burguers/Captopril.jpg",
+            "name": "Captopril",
+            "dsc": "Kit",
+            "price": 240
+        },
+        {
+            "id": "p",
+            "img": "./img/cardapio/burguers/Furosemida.jpg",
+            "name": "Furosemida",
+            "dsc": "p",
+            "price": 220
+        },
+        {
+            "id": "q",
+            "img": "./img/cardapio/burguers/Pack-RANITIDINA-comp.jpg",
+            "name": "Ranitidina",
+            "dsc": "q",
+            "price": 270
+        },
+        {
+            "id": "1",
+            "img": "./img/cardapio/burguers/Vitamina C.jpg",
+            "name": "Vitamina C",
+            "dsc": "1",
+            "price": 300
+        },
+        {
+            "id": "2",
+            "img": "./img/cardapio/burguers/acido-folico.jpg",
+            "name": "Ácido Fólico",
+            "dsc": "2",
+            "price": 150
+        },
+        {
+            "id": "r",
+            "img": "./img/cardapio/burguers/Clotrimazol-crema.png",
+            "name": "Clotrimazol (crema)",
+            "dsc": "r",
+            "price": 700
+        },
+        {
+            "id": "pepe",
+            "img": "./img/cardapio/burguers/KETOLEF_2__CREMA_X_15_G.png",
+            "name": "Ketoconazol (crema)",
+            "dsc": "pepe",
+            "price": 700
+        },
+        {
+            "id": "12",
+            "img": "./img/cardapio/burguers/Permetrinaencrema.jpg",
+            "name": "Permetrina (crema)",
+            "dsc": "12",
+            "price": 700
+        },
+        {
+            "id": "13",
+            "img": "./img/cardapio/burguers/Óvulos Clotrimazol.jpg",
+            "name": "Óvulos Clotrimazol",
+            "dsc": "13",
+            "price": 120
         }
     ],
     "sobremesas": [

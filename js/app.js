@@ -24,7 +24,7 @@ cardapio.eventos = {
 
 cardapio.metodos = {
 
-    // obtem a lista de itens do cardápio
+    // obtener la lista de elementos del menú
     obterItensCardapio: (categoria = 'burgers', vermais = false) => {
 
         var filtro = MENU[categoria];
@@ -43,12 +43,12 @@ cardapio.metodos = {
             .replace(/\${id}/g, e.id)
 
             // botão ver mais foi clicado (12 itens)
-            if (vermais && i >= 8 && i < 12) {
+            if (vermais && i >= 20 && i < 24) {
                 $("#itensCardapio").append(temp)
             }
 
             // paginação inicial (8 itens)
-            if (!vermais && i < 8) {
+            if (!vermais && i < 20) {
                 $("#itensCardapio").append(temp)
             }
 

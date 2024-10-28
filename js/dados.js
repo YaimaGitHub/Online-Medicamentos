@@ -164,6 +164,13 @@ var MENU = {
             "price": 600
         },
         {
+            "id": "complete",
+            "img": "./img/cardapio/burguers/cefalexina suspension.jpg",
+            "name": "Cefalexina (suspención)",
+            "dsc": "complete",
+            "price": 700
+        },
+        {
             "id": "gramercy-tavern-burger-kielbasa-combo",
             "img": "./img/cardapio/burguers/nistatina-suspension.jpg",
             "name": "Nistatina (suspención)",
@@ -176,6 +183,27 @@ var MENU = {
             "name": "Diclofenaco + Paracetamol",
             "dsc": "Kit for",
             "price": 250
+        },
+        {
+            "id": "it",
+            "img": "./img/cardapio/burguers/Ibuprofeno.jpg",
+            "name": "Ibuprofeno",
+            "dsc": "it",
+            "price": 240
+        },
+        {
+            "id": "t",
+            "img": "./img/cardapio/burguers/Paracetamol (jarabe).jpg",
+            "name": "Paracetamol (jarabe)",
+            "dsc": "t",
+            "price": 700
+        },
+        {
+            "id": "opq",
+            "img": "./img/cardapio/burguers/Ibuprofeno (jarabe).jpg",
+            "name": "Ibuprofeno (jarabe)",
+            "dsc": "opq",
+            "price": 700
         },
         {
             "id": "pack",
@@ -192,6 +220,20 @@ var MENU = {
             "price": 210
         },
         {
+            "id": "le",
+            "img": "./img/cardapio/burguers/Loratadina.jpg",
+            "name": "Loratadina",
+            "dsc": "le",
+            "price": 250
+        },
+        {
+            "id": "lee",
+            "img": "./img/cardapio/burguers/ENALAPRIL-MALEATO-20MG-CAJA-POR-20-TABLETAS-CON-BLISTER.jpg",
+            "name": "Enalapril",
+            "dsc": "lee",
+            "price": 230
+        },
+        {
             "id": "Kit",
             "img": "./img/cardapio/burguers/Captopril.jpg",
             "name": "Captopril",
@@ -204,6 +246,20 @@ var MENU = {
             "name": "Furosemida",
             "dsc": "p",
             "price": 220
+        },
+        {
+            "id": "ome",
+            "img": "./img/cardapio/burguers/omeprazol-recurso-gsc.jpg",
+            "name": "Omeprasol",
+            "dsc": "ome",
+            "price": 230
+        },
+        {
+            "id": "peptobismol",
+            "img": "./img/cardapio/burguers/Suspensi-n-Pepto-Bismol-Sabor-Original-473-ml-1-3238.jpg",
+            "name": "Pepto Bismol (jarabe-aliviar cualquier malestar estomacal)",
+            "dsc": "peptobismol",
+            "price": 1700
         },
         {
             "id": "q",
@@ -225,6 +281,20 @@ var MENU = {
             "name": "Ácido Fólico",
             "dsc": "2",
             "price": 150
+        },
+        {
+            "id": "vitamina",
+            "img": "./img/cardapio/burguers/Vitamina C (jarabe).jpg",
+            "name": "Vitamina C (jarabe)",
+            "dsc": "vitamina",
+            "price": 700
+        },
+        {
+            "id": "vitaminac",
+            "img": "./img/cardapio/burguers/VITAMINA-C-GOTAS-100-MG--COASP_L.jpg",
+            "name": "Vitamina C (gotas)",
+            "dsc": "vitaminac",
+            "price": 600
         },
         {
             "id": "r",
@@ -250,8 +320,15 @@ var MENU = {
         {
             "id": "13",
             "img": "./img/cardapio/burguers/Óvulos Clotrimazol.jpg",
-            "name": "Óvulos Clotrimazol",
+            "name": "Ovulos Clotrimazol",
             "dsc": "13",
+            "price": 120
+        },
+        {
+            "id": "Metronidazol",
+            "img": "./img/cardapio/burguers/Óvulos Clotrimazol+nistatina.jpg",
+            "name": "Ovulos Metronidazol + Nistatina",
+            "dsc": "Metronidazol",
             "price": 120
         }
     ],

@@ -375,7 +375,7 @@ cardapio.metodos = {
 
                     }
                     else {
-                        cardapio.metodos.mensagem('CEP não encontrado. Preencha as informações manualmente.');
+                        cardapio.metodos.mensagem('');
                         $("#txtEndereco").focus();
                     }
 
@@ -383,7 +383,7 @@ cardapio.metodos = {
 
             }
             else {
-                cardapio.metodos.mensagem('Formato do CEP inválido.');
+                cardapio.metodos.mensagem('');
                 $("#txtCEP").focus();
             }
 
@@ -407,7 +407,7 @@ cardapio.metodos = {
         let complemento = $("#txtComplemento").val().trim();
 
         if (cep.length <= 0) {
-            cardapio.metodos.mensagem('Informe o CEP, por favor.');
+            cardapio.metodos.mensagem('Teléfono, por favor.');
             $("#txtCEP").focus();
             return;
         }
@@ -419,13 +419,13 @@ cardapio.metodos = {
         }
 
         if (bairro.length <= 0) {
-            cardapio.metodos.mensagem('Rellene el campo Vecindario o  Barrio, por favor.');
+            cardapio.metodos.mensagem('Rellene el campo Vecindario o Barrio, por favor.');
             $("#txtBairro").focus();
             return;
         }
 
         if (cidade.length <= 0) {
-            cardapio.metodos.mensagem('Rellene el campo Ciudad, por favor.');
+            cardapio.metodos.mensagem('Rellene el campo Provincia, por favor.');
             $("#txtCidade").focus();
             return;
         }
@@ -437,7 +437,7 @@ cardapio.metodos = {
         }
 
         if (numero.length <= 0) {
-            cardapio.metodos.mensagem('Rellene el campo número de movil, por favor.');
+            cardapio.metodos.mensagem('Rellene el campo número del hogar donde vive.');
             $("#txtNumero").focus();
             return;
         }
@@ -473,8 +473,8 @@ cardapio.metodos = {
 
         });
 
-        $("#resumoEndereco").html(`${MEU_ENDERECO.endereco}, ${MEU_ENDERECO.numero}, ${MEU_ENDERECO.bairro}`);
-        $("#cidadeEndereco").html(`${MEU_ENDERECO.cidade}-${MEU_ENDERECO.uf} / ${MEU_ENDERECO.cep} ${MEU_ENDERECO.complemento}`);
+        $("#resumoEndereco").html(`${MEU_ENDERECO.endereco}, #${MEU_ENDERECO.numero}, ${MEU_ENDERECO.bairro}`);
+        $("#cidadeEndereco").html(`${MEU_ENDERECO.cidade}-${MEU_ENDERECO.uf} / ${MEU_ENDERECO.complemento} / teléf: ${MEU_ENDERECO.cep}`);
 
         cardapio.metodos.finalizarPedido();
 
@@ -489,7 +489,7 @@ cardapio.metodos = {
             texto += `\n*Ordenar artículos:*\n\n\${itens}`;
             texto += '\n*Dirección de entrega:*';
             texto += `\n${MEU_ENDERECO.endereco}, ${MEU_ENDERECO.numero}, ${MEU_ENDERECO.bairro}`;
-            texto += `\n${MEU_ENDERECO.cidade}-${MEU_ENDERECO.uf} / ${MEU_ENDERECO.cep} ${MEU_ENDERECO.complemento}`;
+            texto += `\n${MEU_ENDERECO.cidade}-${MEU_ENDERECO.uf} / Remitente: ${MEU_ENDERECO.complemento} / Teléf:${MEU_ENDERECO.cep}`;
             texto += `\n\n*Total (con entrega): MN$ ${(VALOR_CARRINHO + VALOR_ENTREGA).toFixed(2).replace('.', ',')}*`;
 
             var itens = '';

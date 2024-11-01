@@ -122,10 +122,10 @@ var MENU = {
             "price": 300
         },
         {
-            "id": "21-usda-prime-burgers-pack-of-18-8oz-each",
-            "img": "./img/cardapio/burguers/lasante_azitromicina_tabletas.png",
+            "id": "shake-shack-shackburger-16-pack",
+            "img": "./img/cardapio/productos agotados/aviso-producto-agotado-1.jpg",
             "name": "Azitromicina",
-            "dsc": "USDA Prime Burgers - Pack of 18 (8oz each)",
+            "dsc": "shake-shack-shackburger-16-pack",
             "price": 460
         },
         {
@@ -192,17 +192,24 @@ var MENU = {
             "price": 240
         },
         {
-            "id": "t",
-            "img": "./img/cardapio/burguers/Paracetamol (jarabe).jpg",
-            "name": "Paracetamol (jarabe)",
-            "dsc": "t",
-            "price": 700
+            "id": "ttt",
+            "img": "./img/cardapio/burguers/ibuprofeno(pomo).jpg",
+            "name": "Ibuprofeno (pomo)",
+            "dsc": "ttt",
+            "price": 600
         },
         {
             "id": "opq",
             "img": "./img/cardapio/burguers/Ibuprofeno (jarabe).jpg",
             "name": "Ibuprofeno (jarabe)",
             "dsc": "opq",
+            "price": 700
+        },
+        {
+            "id": "t",
+            "img": "./img/cardapio/burguers/Paracetamol (jarabe).jpg",
+            "name": "Paracetamol (jarabe)",
+            "dsc": "t",
             "price": 700
         },
         {
@@ -297,6 +304,20 @@ var MENU = {
             "price": 600
         },
         {
+            "id": "12345678999",
+            "img": "./img/cardapio/burguers/super b-complex.jpg",
+            "name": "Super B-Complex (pomo)",
+            "dsc": "12345678999",
+            "price": 600
+        },
+        {
+            "id": "13456789",
+            "img": "./img/cardapio/burguers/vitamin-b-12-es.jpg",
+            "name": "Vitamina B12 (pomo)",
+            "dsc": "13456789",
+            "price": 600
+        },
+        {
             "id": "r",
             "img": "./img/cardapio/burguers/Clotrimazol-crema.png",
             "name": "Clotrimazol (crema)",
@@ -308,6 +329,27 @@ var MENU = {
             "img": "./img/cardapio/burguers/KETOLEF_2__CREMA_X_15_G.png",
             "name": "Ketoconazol (crema)",
             "dsc": "pepe",
+            "price": 700
+        },
+        {
+            "id": "pepe12",
+            "img": "./img/cardapio/burguers/aciclovir.jpg",
+            "name": "Aciclovir (crema)",
+            "dsc": "pepe12",
+            "price": 700
+        },
+        {
+            "id": "pepe1234",
+            "img": "./img/cardapio/burguers/miconazol crema.jpg",
+            "name": "Miconazol (crema)",
+            "dsc": "pepe1234",
+            "price": 450
+        },
+        {
+            "id": "pepe12345",
+            "img": "./img/cardapio/burguers/triple accion.jpg",
+            "name": "Triple Accion CLOTRIMAZOL + GENTAMICINA + BETAMETASONA (crema)",
+            "dsc": "pepe12345",
             "price": 700
         },
         {
@@ -330,6 +372,55 @@ var MENU = {
             "name": "Ovulos Metronidazol + Nistatina",
             "dsc": "Metronidazol",
             "price": 120
+        },
+        {
+            "id": "134",
+            "img": "./img/cardapio/burguers/hydrocortisone cream.png",
+            "name": "Hydrocortisone (crema) se usa para tratar el enrojecimiento, la hinchazón, la picazón y las molestias de diferentes afecciones de la piel",
+            "dsc": "134",
+            "price": 700
+        },
+        {
+            "id": "1345",
+            "img": "./img/cardapio/burguers/Heat Wrap compresse chauffante.jpg",
+            "name": "Heat Wrap compresse chauffante, ayuda a relajar los músculos y aliviar el dolor",
+            "dsc": "1345",
+            "price": 500
+        },
+        {
+            "id": "13456",
+            "img": "./img/cardapio/burguers/mentol muscle rub.jpg",
+            "name": "Menthol (Muscle Rub) se usa para tratar dolores leves en músculos/articulaciones",
+            "dsc": "13456",
+            "price": 600
+        },
+        {
+            "id": "134567",
+            "img": "./img/cardapio/burguers/mentol Arthritis & muscle.jpg",
+            "name": "Menthol (Arthritis & Muscle) se usa para tratar dolores leves en músculos/articulaciones",
+            "dsc": "134567",
+            "price": 700
+        },
+        {
+            "id": "1345678",
+            "img": "./img/cardapio/burguers/Aspirina.jpg",
+            "name": "Aspirina (pomo)",
+            "dsc": "1345678",
+            "price": 500
+        },
+        {
+            "id": "13456788",
+            "img": "./img/cardapio/burguers/Iron spring valley.jpg",
+            "name": "Iron spring valley (es un suplemento dietético diseñado para brindar bienestar general y apoyo nutricional)",
+            "dsc": "13456788",
+            "price": 500
+        },
+        {
+            "id": "13456788",
+            "img": "./img/cardapio/productos agotados/aviso-producto-agotado-1.jpg",
+            "name": "Amitriptilina",
+            "dsc": "13456788",
+            "price": 300
         }
     ],
     "sobremesas": [

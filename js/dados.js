@@ -417,7 +417,7 @@ var MENU = {
         },
         {
             "id": "13456788",
-            "img": "./img/cardapio/productos agotados/aviso-producto-agotado-1.jpg",
+            "img": "./img/cardapio/burguers/AZITROMICINA-500MG-CAJA-POR-3-TABLETAS-INCLINADO.jpg",
             "name": "Amitriptilina",
             "dsc": "13456788",
             "price": 300

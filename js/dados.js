@@ -122,8 +122,8 @@ var MENU = {
             "price": 300
         },
         {
-            "id": "shake-shack-shackburger-16-pack",
-            "img": "./img/cardapio/productos agotados/aviso-producto-agotado-1.jpg",
+            "id": "shake-shack-shackburger-16-packkk",
+            "img": "./img/cardapio/burguers/AZITROMICINA-500MG-CAJA-POR-3-TABLETAS-INCLINADO.jpg",
             "name": "Azitromicina",
             "dsc": "shake-shack-shackburger-16-pack",
             "price": 460
@@ -417,7 +417,7 @@ var MENU = {
         },
         {
             "id": "13456788",
-            "img": "./img/cardapio/burguers/AZITROMICINA-500MG-CAJA-POR-3-TABLETAS-INCLINADO.jpg",
+            "img": "./img/cardapio/productos agotados/aviso-producto-agotado-1.jpg",
             "name": "Amitriptilina",
             "dsc": "13456788",
             "price": 300

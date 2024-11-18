@@ -318,7 +318,7 @@ var MENU = {
             "img": "./img/cardapio/Antidepresivos/Furosemida.jpg",
             "name": "Furosemida",
             "dsc": "Chef Matt's Steak Sampler for 10-12",
-            "price": 200
+            "price": 220
         }
     ]
 }

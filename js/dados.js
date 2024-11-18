@@ -70,7 +70,7 @@ var MENU = {
             "img": "./img/cardapio/burguers/albendazol.png",
             "name": "Albendazol (400mg)",
             "dsc": "Goldbelly \"Burger Bash\" Pack",
-            "price": 230
+            "price": 280
         },
         {
             "id": "burger-au-poivre-kit-4-pack",
@@ -84,7 +84,7 @@ var MENU = {
             "img": "./img/cardapio/burguers/mebendazol.jpg",
             "name": "Mebendazol",
             "dsc": "Goldbelly Burger Blend - 4 lbs.",
-            "price": 180
+            "price": 220
         },
         {
             "id": "gotts-complete-cheeseburger-kit-for-8",

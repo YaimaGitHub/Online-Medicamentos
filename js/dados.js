@@ -263,7 +263,7 @@ var MENU = {
         {
             "id": "super1",
             "img": "./img/cardapio/outros/mentol muscle rub.jpg",
-            "name": "Mentol Muscle Rub (pomo)",
+            "name": "Mentol Muscle Rub (crema)",
             "dsc": "Jewish Classics Dessert Pack",
             "price": 700
         }

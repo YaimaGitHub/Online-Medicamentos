@@ -252,6 +252,20 @@ var MENU = {
             "name": "Amitriptilina",
             "dsc": "Jewish Classics Dessert Pack",
             "price": 300
+        },
+        {
+            "id": "super",
+            "img": "./img/cardapio/outros/super b-complex.jpg",
+            "name": "Super B-Complex (pomo)",
+            "dsc": "Jewish Classics Dessert Pack",
+            "price": 600
+        },
+        {
+            "id": "super1",
+            "img": "./img/cardapio/outros/mentol muscle rub.jpg",
+            "name": "Mentol Muscle Rub (pomo)",
+            "dsc": "Jewish Classics Dessert Pack",
+            "price": 700
         }
     ],
     "pizzas": [

@@ -489,8 +489,8 @@ cardapio.metodos = {
             texto += `\n*Ordenar artículos:*\n\n\${itens}`;
             texto += '\n*Dirección de entrega:*';
             texto += `\n${MEU_ENDERECO.endereco}, ${MEU_ENDERECO.numero}, ${MEU_ENDERECO.bairro}`;
-            texto += `\n${MEU_ENDERECO.cidade}-${MEU_ENDERECO.uf} / Remitente: ${MEU_ENDERECO.complemento} / Teléf:${MEU_ENDERECO.cep}`;
-            texto += `\n\n*Total (con entrega): MN$ ${(VALOR_CARRINHO + VALOR_ENTREGA).toFixed(2).replace('.', ',')}*`;
+            texto += `\n / Provincia: ${MEU_ENDERECO.cidade} / Método de pago: ${MEU_ENDERECO.uf} / Remitente: ${MEU_ENDERECO.complemento} / Teléf:${MEU_ENDERECO.cep}`;
+            texto += `\n\n / *Total (con entrega): MN$ ${(VALOR_CARRINHO + VALOR_ENTREGA).toFixed(2).replace('.', ',')}*`;
 
             var itens = '';
 

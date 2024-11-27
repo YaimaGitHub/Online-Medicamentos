@@ -266,6 +266,13 @@ var MENU = {
             "name": "Mentol Muscle Rub (crema)",
             "dsc": "Jewish Classics Dessert Pack",
             "price": 700
+        },
+        {
+            "id": "super2",
+            "img": "./img/cardapio/outros/Prednisolona.jpg",
+            "name": "Prednisolona",
+            "dsc": "Choose Your Own Deep Dish Pizza - 3 Pack",
+            "price": 300
         }
     ],
     "pizzas": [
@@ -303,13 +310,6 @@ var MENU = {
             "name": "Ibuprofeno (jarabe)",
             "dsc": "Wood Fired Pizzas Best Seller - 4 Pack",
             "price": 800
-        },
-        {
-            "id": "236991-choose-your-own-deep-dish-pizza-3-pack",
-            "img": "./img/cardapio/antiinflamatorios/Prednisolona.jpg",
-            "name": "Prednisolona",
-            "dsc": "Choose Your Own Deep Dish Pizza - 3 Pack",
-            "price": 300
         }
     ],
     "steaks": [

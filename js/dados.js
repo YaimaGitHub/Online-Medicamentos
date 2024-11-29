@@ -251,7 +251,7 @@ var MENU = {
             "img": "./img/cardapio/outros/Amitriptilina.jpg",
             "name": "Amitriptilina",
             "dsc": "Jewish Classics Dessert Pack",
-            "price": 320
+            "price": 420
         },
         {
             "id": "super",

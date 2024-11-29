@@ -35,7 +35,7 @@ var MENU = {
             "img": "./img/cardapio/burguers/Cefalexina.jpg",
             "name": "Cefalexina",
             "dsc": "Gott's Complete Cheeseburger Kit for 4",
-            "price": 420
+            "price": 440
         },
         {
             "id": "le-big-matt-kit-for-6",
@@ -56,7 +56,7 @@ var MENU = {
             "img": "./img/cardapio/burguers/AZITROMICINA-500MG-CAJA-POR-3-TABLETAS-INCLINADO.jpg",
             "name": "Azitromicina",
             "dsc": "shake-shack-shackburger-16-pack",
-            "price": 460
+            "price": 440
         },
         {
             "id": "double-stack-burger-kit-for-4",
@@ -77,7 +77,7 @@ var MENU = {
             "img": "./img/cardapio/burguers/Secnidazol.jpg",
             "name": "Cecnidazol",
             "dsc": "Burger Au Poivre Kit - 4 Pack",
-            "price": 230
+            "price": 380
         },
         {
             "id": "goldbelly-burger-blend-4-lbs",
@@ -186,7 +186,7 @@ var MENU = {
             "img": "./img/cardapio/Digestivos/Pack-RANITIDINA-comp.jpg",
             "name": "Ranitidina",
             "dsc": "Guy's Caliente Margaritas for 12",
-            "price": 220
+            "price": 250
         },
         {
             "id": "woodford-reserve-mint-julep-syrup",
@@ -251,7 +251,7 @@ var MENU = {
             "img": "./img/cardapio/outros/Amitriptilina.jpg",
             "name": "Amitriptilina",
             "dsc": "Jewish Classics Dessert Pack",
-            "price": 300
+            "price": 320
         },
         {
             "id": "super",
@@ -281,7 +281,7 @@ var MENU = {
            "img": "./img/cardapio/antiinflamatorios/Diclofenaco + Paracetamol.jpg",
             "name": "Diclofenaco + Paracetamol",
             "dsc": "2 Lou Malnati's Deep Dish Pizzas",
-            "price": 200
+            "price": 210
         },
         {
             "id": "23699-choose-your-own-thin-crust-pizza-4-pack",

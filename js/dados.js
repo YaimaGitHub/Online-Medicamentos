@@ -26,7 +26,7 @@ var MENU = {
         {
             "id": "shake-shack-shackburger-8-pack",
             "img": "./img/cardapio/burguers/CIPROFLOXACINO-500-MG.jpg",
-            "name": "Ciprofloxacino",
+            "name": "Ciprofloxacino 500mg",
             "dsc": "Shake Shack ShackBurger® - 8 Pack",
             "price": 300
         },
@@ -248,8 +248,8 @@ var MENU = {
         },
         {
             "id": "Amitriptilina",
-            "img": "./img/cardapio/outros/Amitriptilina.jpg",
-            "name": "Amitriptilina",
+            "img": "./img/cardapio/outros/Amitriptilina 25 mg.jpg",
+            "name": "Amitriptilina 25 mg",
             "dsc": "Jewish Classics Dessert Pack",
             "price": 420
         },

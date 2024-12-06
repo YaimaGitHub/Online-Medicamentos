@@ -520,7 +520,7 @@ cardapio.metodos = {
     // cargar el enlace del botón de reserva
     carregarBotaoReserva: () => {
 
-        var texto = '¡Hola! me gustaria hacer una *reserva*';
+        var texto = '¡Hola! Me gustaría hablar con un *asistente*';
 
         let encode = encodeURI(texto);
         let URL = `https://wa.me/${CELULAR_EMPRESA}?text=${encode}`;
@@ -591,7 +591,7 @@ cardapio.templates = {
                     <span class="btn-menos" onclick="cardapio.metodos.diminuirQuantidade('\${id}')"><i class="fas fa-minus"></i></span>
                     <span class="add-numero-itens" id="qntd-\${id}">0</span>
                     <span class="btn-mais" onclick="cardapio.metodos.aumentarQuantidade('\${id}')"><i class="fas fa-plus"></i></span>
-                    <span class="btn btn-add" onclick="cardapio.metodos.adicionarAoCarrinho('\${id}')"><i class="fa fa-shopping-bag"></i></span>
+                    <span class="btn btn-add" onclick="cardapio.metodos.adicionarAoCarrinho('\${id}')"><i class="fa fa-shopping-cart" title="Añadir a la cesta"></i> Adicionar</span>
                 </div>
             </div>
         </div>
